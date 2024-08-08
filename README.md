@@ -38,7 +38,7 @@ pip install keras tensorflow matplotlib numpy
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/PixelPatrol.git
+git clone [https://github.com/your-username/PixelPatrol.git](https://github.com/Mihawk1891/PixelPatrol.git)
 cd PixelPatrol
 ```
 
